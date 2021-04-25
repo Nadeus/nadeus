@@ -1,31 +1,20 @@
-name: hugo CI
+name: Publish Site
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repo
+        uses: actions/checkout@master
         with:
-          submodules: true 
-          fetch-depth: 1   
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+          submodules: true
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
         with:
-          hugo-version: 'latest'
-
-      - name: Build
-        run: hugo
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: Nadeus/nadeus
-          publish_branch: master
-          publish_dir: ./public
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
