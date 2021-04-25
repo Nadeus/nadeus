@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nadeus</title>
-    <link>https://nadeus.github.io/nadeus/categories/</link>
+    <link>http://nadeus.com/categories/</link>
     <description>Recent content in Categories on Nadeus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://nadeus.github.io/nadeus/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language><atom:link href="http://nadeus.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

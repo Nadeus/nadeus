@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nadeus</title>
-    <link>https://nadeus.github.io/nadeus/tags/</link>
+    <link>http://nadeus.com/tags/</link>
     <description>Recent content in Tags on Nadeus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://nadeus.github.io/nadeus/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language><atom:link href="http://nadeus.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

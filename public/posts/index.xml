@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nadeus</title>
-    <link>https://nadeus.github.io/nadeus/posts/</link>
+    <link>http://nadeus.com/posts/</link>
     <description>Recent content in Posts on Nadeus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 24 Apr 2021 21:28:16 +0200</lastBuildDate><atom:link href="https://nadeus.github.io/nadeus/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 21:28:16 +0200</lastBuildDate><atom:link href="http://nadeus.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mon attrait pour les communautés</title>
-      <link>https://nadeus.github.io/nadeus/posts/mon_attrait_pour_les_communautes/</link>
+      <title>Ceci est un test</title>
+      <link>http://nadeus.com/posts/toast/</link>
       <pubDate>Sat, 24 Apr 2021 21:28:16 +0200</pubDate>
       
-      <guid>https://nadeus.github.io/nadeus/posts/mon_attrait_pour_les_communautes/</guid>
-      <description>Depuis que je joue à Age of Empires, j&amp;rsquo;ai toujours adoré cette idée de voir les paysans évoluer, construire une ville sous mes yeux, la voir prendre forme, &amp;hellip;
-Cette idée que je crée une structure dans laquelle des petits personnages évoluent avec ce que je leur donne a toujours été grisante pour moi (d&amp;rsquo;où slidn &amp;hellip;).
-Les voir travailler, se développer, créer, partager, le tout dans une direction que je trouve noble.</description>
+      <guid>http://nadeus.com/posts/toast/</guid>
+      <description>toast hihiih</description>
     </item>
     
   </channel>

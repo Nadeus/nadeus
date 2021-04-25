@@ -1,0 +1,4 @@
+baseURL = "http://nadeus.com/"
+languageCode = "fr-FR"
+title = "Nadeus"
+theme = "hugo-tania"
