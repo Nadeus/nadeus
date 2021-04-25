@@ -30,4 +30,4 @@ jobs:
           publish_dir: ./public
           publish_branch: publish
       - name: Create CNAME file
-        run: echo nadeus.com > CNAME
+        run: echo "nadeus.com" > CNAME
