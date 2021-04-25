@@ -12,7 +12,7 @@ menu:
       url: "/ressources/"
       weight: 10
     - name: Articles
-      url: "/posts/"
+      url: "/articles/"
       weight: 20
 
 markup:

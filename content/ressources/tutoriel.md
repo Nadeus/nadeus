@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Tuto"
+date: 2021-04-25T21:14:17+02:00
+lastmod: 2021-04-25T21:14:17+02:00
 draft: true
 keywords: []
 description: ""
@@ -11,4 +11,7 @@ author: "Rifal"
 hiddenFromHomePage: false
 layout: "page"
 
+
 ---
+
+Prout
