@@ -4,19 +4,6 @@
     <link>http://nadeus.com/</link>
     <description>Recent content on Nadeus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sat, 24 Apr 2021 21:28:16 +0200</lastBuildDate><atom:link href="http://nadeus.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-    <title>Ceci est un test</title>
-    <link>http://nadeus.com/posts/toast/</link>
-    <pubDate>Sat, 24 Apr 2021 21:28:16 +0200</pubDate>
-    
-    <guid>http://nadeus.com/posts/toast/</guid>
-    <description>
-        &lt;p&gt;Dernier test&lt;/p&gt;
-
-    </description>
-    </item>
-    
+    <language>fr-FR</language><atom:link href="http://nadeus.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
