@@ -3,18 +3,17 @@ languageCode: "fr-FR"
 title: "Nadeus"
 theme: "hugo-tania"
 params:
-  titleEmoji: '😎'
-  socialOptions:
-    github: 
-    twitter: 
+  titleEmoji: '🦓'
+
 
 menu:
   header:
+    - name: Ressources
+      url: "/ressources/"
+      weight: 10
     - name: Articles
-      url: "/articles/"
-  footer:
-    - name: RSS
-      url: "/index.xml"
+      url: "/posts/"
+      weight: 20
 
 markup:
   highlight:

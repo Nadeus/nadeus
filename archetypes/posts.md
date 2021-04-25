@@ -1,5 +1,4 @@
 ---
-​---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
@@ -10,7 +9,5 @@ tags: []
 categories: []
 author: "Rifal"
 hiddenFromHomePage: false
-layout: "page"
-
-​---
+layout: "single"
 ---
