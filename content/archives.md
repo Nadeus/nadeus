@@ -2,7 +2,7 @@
 
 title: Articles 
 
-subtitle: Posts, tutorials, snippets, musings, and everything else. 
+subtitle: Tout ce qui a été publié depuis le départ.
 
 date: 2020-11-26 
 

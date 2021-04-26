@@ -9,7 +9,7 @@ tags: []
 categories: []
 author: "Rifal"
 hiddenFromHomePage: false
-layout: "page"
+layout: "single"
 
 ---
 
