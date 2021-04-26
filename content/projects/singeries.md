@@ -6,6 +6,7 @@ weight: 2
 link: https://discord.gg/R2VsE9M6jt
 repo: projects/singeries
 icon: 🐒
+
 ---
 
 toast
