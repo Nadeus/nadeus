@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nadeus</title>
+    <link>http://nadeus.com/projects/</link>
+    <description>Recent content in Projects on Nadeus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://nadeus.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slidn</title>
+      <link>http://nadeus.com/projects/slidn/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://nadeus.com/projects/slidn/</guid>
+      <description>toast</description>
+    </item>
+    
+    <item>
+      <title>Singeries</title>
+      <link>http://nadeus.com/projects/singeries/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://nadeus.com/projects/singeries/</guid>
+      <description>toast</description>
+    </item>
+    
+  </channel>
+</rss>
