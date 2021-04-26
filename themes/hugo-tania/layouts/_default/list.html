@@ -7,7 +7,7 @@
   <div class="container">
     <h1>{{ .Title }}</h1>
     <p class="subtitle">
-      <span class="count">{{ len .Pages }}</span> posts found.
+      <span class="count">{{ len .Pages }}</span> publications.
     </p>
   </div>
 </header>
@@ -21,7 +21,7 @@
           <div class="post">
             <a href="{{ .RelPermalink }}">
               <div class="post-row">
-                <time>{{ .Date.Format "Jan 02" }}</time>
+                 <!--<time>{{ .Date.Format "Jan 02" }}</time>-->
                 <h3>{{ .Title }}</h3>
               </div>
               <!--<div class="new-post">New!</div>-->
@@ -43,12 +43,12 @@
     <nav class="pagination">
       {{- if $paginator.HasPrev}}
       <div class="prev-page">
-        <a href="{{ $paginator.Prev.URL }}">Previous Page</a>
+        <a href="{{ $paginator.Prev.URL }}">Page précédente</a>
       </div>
       {{ end }}
       {{- if $paginator.HasNext}}
       <div class="next-page">
-        <a href="{{ $paginator.Next.URL }}">Next Page</a>
+        <a href="{{ $paginator.Next.URL }}">Page suivante</a>
       </div>
       {{ end }}
     </nav>
